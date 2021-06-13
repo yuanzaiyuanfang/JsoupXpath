@@ -1,0 +1,3 @@
+include ':jsoupxpath'
+include ':app'
+rootProject.name = "Crawler"
